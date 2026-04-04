@@ -1,31 +1,34 @@
 # Hi, I'm Anastasia 👋
 
-### Junior Python & Java Developer | VR Enthusiast | Startup Founder
+### Junior Python Developer | Cybersecurity Enthusiast | Founder of "Soft Corner"
 
-- 🎓 Studying Applied Mathematics at NNSU
-- 🚀 Founder of "Soft Corner" (E-commerce stores on USA & Global markets)
-- 🛠 Working with: **Python (Data Science, AI), Java, VR/AR (Unity)**
-- 🏆 PROFIT Hackathon Participant (Jan 2025)
-- 📚 High School Diploma with Honors
+- 🎓 **Education:** Studying Physics at **Lobachevsky University (NNSU)**, Faculty of Physics(nanotechnology and microsystem engineering ).
+- 🚀 **Entrepreneurship:** Founder of **"Soft Corner"** (TailyPaw) — managing full-cycle e-commerce operations on global markets.
+- 💻 **Tech Stack:** Specialized in **Python (Asyncio, Aiohttp)** for security automation and data analysis.
+- 🛡️ **Cybersecurity:** Focused on web vulnerabilities, OSINT, and reconnaissance tools.
+- 🏆 **Achievements:** Participant in **PROFIT Hackathon** (Jan 2025) and **Quantum Hackathon**.
 
 ---
-### 🛠 Technologies & Tools
-- **Languages:** Python, Java, C#, SQL
-- **Frameworks:** Unity, NumPy, Matplotlib
-- **Interests:** Quantum Computing, Neural Networks, Architectural VR
 
+### 🛠️ Technologies & Tools
 
-<!--
-**mirmir228/mirmir228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*   **Languages:** Python (Advanced Async), Java, SQL, Bash, C, C++
+*   **Frameworks & Libraries:** Aiohttp, NumPy, Matplotlib, Telebot.
+*   **Security Tools:** Nmap, Burp Suite (Learning), Custom Recon Scripts.
+*   **Soft Skills:** Project Management, Market Analysis, Startup Scaling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+
+*   **[AsyncReconGuard](https://github.com/mirmir228/async-recon-guard)** — A high-performance asynchronous security header auditor and leak detector.
+*   **Custom Telegram Bots** — Automation for e-commerce and shop management.
+
+---
+
+### 🌟 Interests
+*   **Quantum Computing:** Exploring the intersection of physics and computation.
+*   **VR/AR:** Unity enthusiast (Architectural & Creative VR).
+---
+
+📫 **How to reach me:** mirmir_228@mail.ru, telegram @ya_3abop
